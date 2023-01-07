@@ -10,7 +10,7 @@ De maneira geral, para uma lista de <i>n</i> números, a pesquisa binária preci
 
 ### 🔢 Logaritmos
 
-A expressão log<sub>10</sub><sup><i>100</i></sup> basicamente diz: "Quantos 10s conseguimos multiplicar para chegar a 100?". Resposta: 2, 10 x 10.
+A expressão log<sub>10</sub>100 basicamente diz: "Quantos 10s conseguimos multiplicar para chegar a 100?". Resposta: 2, 10 x 10.
 
 - 🎥&nbsp;&nbsp;[Logaritmo (Curso Completo)](https://www.youtube.com/playlist?list=PLTPg64KdGgYiyW4u-g8y-dSkT1iz2cUKA)
 
