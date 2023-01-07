@@ -38,3 +38,12 @@ function buscaBinaria(lista, item) {
     return null;
   }
 ```
+
+### Exercícios 
+1.1 Suponha que você tenha uma lista com 128 nomes e esteja pesquisando nela usando a pesquisa binária. Qual é o número máximo de passos que levaria?
+
+Resposta: $\log_{2} 128 = 7$
+
+1.2 Suponha que você dobre o tamanho da lista. Qual é o número máximo de passos agora?
+
+Resposta: $\log_{2} 256 = 8$
