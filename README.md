@@ -5,7 +5,8 @@ Repositório criado para auxiliar nos meus estudos de Algoritmos e Estruturas de
 ### Sumário
 
 * [Busca Binária](./algorithms/binary-search/README.md)
-* [Notação Big O](./algorithms/big-o/README.md) 
+* [Notação Big O](./algorithms/big-o/README.md)
+* [Arrays e Listas Encadeadas](./algorithms/arrays-e-lista-encadeadas/README.md) 
 
 
 ### Referêcias 
