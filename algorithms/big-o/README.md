@@ -18,29 +18,29 @@ A notação Big O informa o quão rápido é um algoritmo. Por exemplo, imagine 
 
 |Big O Notation|Tipo|Algoritmo|Tempo|
 |---|---|---|---|
-|O($\log_{2} n$)|Logaritmica|Pesquisa Binária|+Rápido|
-|O($n$)|Linear|Pesquisa Simples||
-|O($n * $\log_{2} n$)||Quick sort||
-|O($n^2$)|Quadrática|Selection sort||
-|O($n!$)|Fatorial|Caixeiro-viajante|+Lento|
+|$O(\log_{2} n)$|Logaritmica|Pesquisa Binária|+Rápido|
+|$O(n)$|Linear|Pesquisa Simples||
+|$O(n * \log_{2} n)$||Quick sort||
+|$O(n^2)$|Quadrática|Selection sort||
+|$O(n!)$|Fatorial|Caixeiro-viajante|+Lento|
 
 ### Exercícios
 
 1.3 Você tem um nome e deseja encontrar o número de telefone da pessoa na lista telefônica.
 
-Resposta: O($\log_{} n$)
+Resposta: $O(\log_{} n)$
 
 1.4 Você tem um número de telefone e deseja localizar o nome da pessoa na lista telefônica. (Dica: você terá que pesquisar em todo o livro!)
 
-Resposta: O($n$)
+Resposta: $O(n)$
 
 1.5 Você deseja ler os números de cada pessoa na lista telefônica.
 
-Resposta: O($n$)
+Resposta: $O(n)$
 
 1.6 Você quer ler os números apenas do As.
 
-Resposta: O($n$)
+Resposta: $O(n)$
 
 
 ### Referências
