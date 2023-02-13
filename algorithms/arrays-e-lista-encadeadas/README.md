@@ -11,7 +11,7 @@ Com arrays é diferente. Você sabe o endereço de cada item. Por exemplo, supon
 
 Aqui está o tempo de execução para operações comuns de arrays e listas:
 
-||Arrays|Listas|
+|   |Arrays|Listas|
 |---|---|---|
 |Leitura|$O(1)$|$O(n)$|
 |Inserção|$O(n)$|$O(1)$|

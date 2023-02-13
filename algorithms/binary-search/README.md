@@ -10,7 +10,7 @@ De maneira geral, para uma lista de *n* números, a pesquisa binária precisa de
 
 A expressão $O(\log_{10} 100)$ basicamente diz: "Quantos 10s conseguimos multiplicar para chegar a 100?". Resposta: 2, 10 x 10.
 
-- 🎥&nbsp;&nbsp;[Logaritmo (Curso Completo)](https://www.youtube.com/playlist?list=PLTPg64KdGgYiyW4u-g8y-dSkT1iz2cUKA)
+- 🎥[Logaritmo (Curso Completo)](https://www.youtube.com/playlist?list=PLTPg64KdGgYiyW4u-g8y-dSkT1iz2cUKA)
 
 ### 💻 Código
 

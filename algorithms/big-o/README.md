@@ -45,4 +45,4 @@ Resposta: $O(n)$
 
 ### Referências
 
-- 🌐&nbsp;&nbsp;[Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+- 🌐[Big O Cheat Sheet](https://www.bigocheatsheet.com/)
