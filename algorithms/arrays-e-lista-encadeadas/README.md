@@ -20,6 +20,7 @@ $O(n)$ = tempo de execução linear <br>
 $O(1)$ = tempo de execução constante
 
 ## Exercícios 
-2.1 <br>
+
+2.1 
 Resposta: Uma lista.
 
